@@ -1,0 +1,31 @@
+
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.header h1{
+  font-size: 50px;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.presentation h1{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.presentation h3{
+  font-size: 21 px;
+  color: gray;
+}
+
+footer {
+  color:gray;
+  text-align: right;
+}
